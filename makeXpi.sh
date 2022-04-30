@@ -1,3 +1,5 @@
+#!/bin/sh
+
 if test -d "ScratchAddons"; then
     echo "Please remove the ScratchAddons directory or move to another directory!"
     exit
